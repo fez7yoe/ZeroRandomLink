@@ -15,10 +15,13 @@
 問題 2：為什麼建立這個專案？<br>
 回答 2：因為好玩啊，所以就抱著嘗試新東西的心情來建立這個專案<br>
 <br>
-問題 3：這專案可以幹嘛？<br>
-回答 3：收集一些[部落格](https://zh.m.wikipedia.org/zh-tw/%E7%B6%B2%E8%AA%8C)或[論壇](https://zh.wikipedia.org/zh-tw/%E8%AE%BA%E5%9D%9B)的網址<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該部落格或論壇的擁有者可以利用[連結](https://fez7yoe.github.io/ZeroRandomLink/LetsGO.html)來互相導向對方的網站<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該部落格或論壇的訪客也可以利用[連結](https://fez7yoe.github.io/ZeroRandomLink/LetsGO.html)前往其他網站參觀<br>
+問題 3：[這專案](https://github.com/fez7yoe/ZeroRandomLink)可以幹嘛？<br>
+回答 3：收集[部落格](https://zh.m.wikipedia.org/zh-tw/%E7%B6%B2%E8%AA%8C)的網址、更新部落格的變動資訊，就一個記事本的概念<br>
+<br>
+問題 4：要怎麼使用**零技術傳送門**？<br>
+回答 4：若你留下了部落格的資訊、傳送門也收集好你的網址，你就會獲得兩種潛在流量：<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;已被收集的部落格擁有者可以藉由[零技術傳送門](https://fez7yoe.github.io/ZeroRandomLink/LetsGO.html)來導向其他被收集的部落格<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;已被收集的部落格訪客也可以藉由[零技術傳送門](https://fez7yoe.github.io/ZeroRandomLink/LetsGO.html)前往其他部落格參觀<br>
 ## 零技術傳送門的參考資料
 你以為這個專案是憑空造出來的嗎？才不是勒<br>
 某些網站已被[防火長城](https://zh.wikipedia.org/zh-tw/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E)阻擋，地理位置位於[中華人民共和國](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD)的使用者就隨手開個 VPN 翻牆看吧<br>
