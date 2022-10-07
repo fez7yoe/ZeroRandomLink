@@ -21,13 +21,23 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該部落格或論壇的訪客也可以利用[連結](https://fez7yoe.github.io/ZeroRandomLink/LetsGO.html)前往其他網站參觀<br>
 ## 零技術傳送門的參考資料
 你以為這個專案是憑空造出來的嗎？才不是勒<br>
-某些網站已被防火牆阻擋，地理位置位於[中華人民共和國](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD)的使用者就隨手開個 VPN 翻牆看吧
-| 語言 | 網站圖示 | 標題名稱 | 網站網址 |
-| :---: | :---: | :---: | :---: |
-| 正體中文 | <img src="https://progressbar.tw/assets/icons/ms-icon-144x144-91f3810843503ce7a69429b8ee6f4e38872d9c3ff255ca7cd3e72746cd1b2b1b.png" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | HTML 新手網站基礎教學 | https://progressbar.tw/serials/5 |
-| 正體中文 | <img src="https://atung.iblog.tw/wp-content/uploads/2020/06/icon_pixnet.jpg" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | X-UA-Compatible 設置 IE 兼容模式 | https://injerry.pixnet.net/blog/post/57042465 |
-| 正體中文 | <img src="https://blog.darkthread.net/img/icon512x512.png" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | 搞懂 X-UA-Compatible IE 相容設定 | https://blog.darkthread.net/blog/x-ua-compatible-setting |
-| 正體中文 | <img src="https://www.fooish.com/favicon.ico" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | 設定 RWD 手機行動版網頁的 viewport 資訊 | https://www.fooish.com/html/meta-viewport.html |
+某些網站已被[防火長城](https://zh.wikipedia.org/zh-tw/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E)阻擋，地理位置位於[中華人民共和國](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD)的使用者就隨手開個 VPN 翻牆看吧<br>
+以下是語法設定參考
+| 語言 | 網站圖示 | 標題名稱 |
+| :---: | :---: | :---: |
+| 正體中文 | <img src="https://progressbar.tw/assets/icons/ms-icon-144x144-91f3810843503ce7a69429b8ee6f4e38872d9c3ff255ca7cd3e72746cd1b2b1b.png" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | [HTML 新手網站基礎教學](https://progressbar.tw/serials/5) |
+| 正體中文 | <img src="https://atung.iblog.tw/wp-content/uploads/2020/06/icon_pixnet.jpg" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | [X-UA-Compatible 設置 IE 兼容模式](https://injerry.pixnet.net/blog/post/57042465) |
+| 正體中文 | <img src="https://blog.darkthread.net/img/icon512x512.png" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | [搞懂 X-UA-Compatible IE 相容設定](https://blog.darkthread.net/blog/x-ua-compatible-setting) |
+| 正體中文 | <img src="https://www.fooish.com/favicon.ico" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | [設定 RWD 手機行動版網頁的 viewport 資訊](https://www.fooish.com/html/meta-viewport.html) |
+***
+以下是使用素材來源
+| 語言 | 網站圖示 | 素材用途 |
+| :---: | :---: | :---: |
+| 英文 | <img src="https://media.flaticon.com/dist/min/img/apple-icon-152x152-precomposed.png" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | [捷徑圖示](https://www.flaticon.com/free-icon/exchange_5791562?related_id=5791562&origin=search) |
+| 英文 | <img src="https://cpwebassets.codepen.io/assets/favicon/apple-touch-icon-5ae1a0698dcc2402e9712f7d01ed509a57814f994c660df9f7a952f3060705ee.png" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | [字體特效](https://codepen.io/team/css-tricks/pen/xxPOgmZ) |
+| 英文 | <img src="https://cpwebassets.codepen.io/assets/favicon/apple-touch-icon-5ae1a0698dcc2402e9712f7d01ed509a57814f994c660df9f7a952f3060705ee.png" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | [背景動畫](https://codepen.io/ElHalWaNY/pen/zKRQGx) |
+| 英文 | <img src="https://images.squarespace-cdn.com/content/v1/50eca855e4b0939ae8bb12d9/1381006470272-AJCDIBP37RWH3OCJIYBV/favicon.ico" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | [隨機連結](https://learninginhand.com/blog/random-messages-and-links) |
+| 簡體中文 | <img src="https://res.wx.qq.com/a/wx_fed/assets/res/OTE0YTAw.png" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | [網站字體](https://mp.weixin.qq.com/s/t_00phJay2v8CwQh0UwufA)<br>[下載密碼 njzy ](https://njzybaby.lanzoui.com/b07sle58j) |
 ## 跟零技術傳送門相似的專案
 **如果還有其他沒有在下面的，快跟我縮，私心想收集** ლ(◉◞౪◟◉ )ლ<br>
 目前已知會**隨機傳送**的有以下網站
