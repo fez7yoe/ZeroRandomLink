@@ -6,11 +6,13 @@
 > **但也可能會重複把你傳送到同樣的網址**，例如這次是編號 1 的網址、下次也是編號 1 的網址<br>
 > 神奇的機率啊 (´◓Д◔`)
 ## 零技術傳送門的問與答 Q&A
-問題：為什麼會將這個專案取名為零技術傳送門？<br>
+問題：為什麼將這個專案取名為零技術傳送門？<br>
 回答：**零技術**就...<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;因為我，不會寫 Code 啊，JavaScript 是什麼？只略懂 HTML 跟 CSS 而已<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;因為我不會寫 Code 啊，JavaScript 是什麼？略懂 HTML 跟 CSS 而已<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**傳送門**就...<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;利用隨機啊、傳送啊這些關鍵字來延伸到傳送門這個詞這樣
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;利用隨機啊、跳轉啊這些關鍵字來延伸到傳送門這個詞<br>
+問題：為什麼想建立這個專案？<br>
+回答：嗯哼，好問題
 ## 相似的專案
 **如果還有其他沒有在下面的，快跟我縮，私心想收集** ლ(◉◞౪◟◉ )ლ<br>
 目前已知會隨機傳送的有以下網站
