@@ -38,7 +38,7 @@
 | 英文 | <img src="https://cpwebassets.codepen.io/assets/favicon/apple-touch-icon-5ae1a0698dcc2402e9712f7d01ed509a57814f994c660df9f7a952f3060705ee.png" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | [背景動畫](https://codepen.io/ElHalWaNY/pen/zKRQGx) |
 | 英文 | <img src="https://images.squarespace-cdn.com/content/v1/50eca855e4b0939ae8bb12d9/1381006470272-AJCDIBP37RWH3OCJIYBV/favicon.ico" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | [隨機連結](https://learninginhand.com/blog/random-messages-and-links) |
 | 簡體中文 | <img src="https://res.wx.qq.com/a/wx_fed/assets/res/OTE0YTAw.png" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | [網站字體](https://mp.weixin.qq.com/s/t_00phJay2v8CwQh0UwufA)<br>[下載密碼 njzy ](https://njzybaby.lanzoui.com/b07sle58j) |
-## 跟零技術傳送門相似的專案
+## 與零技術傳送門相似的專案
 **如果還有其他沒有在下面的，快跟我縮，私心想收集** ლ(◉◞౪◟◉ )ლ<br>
 目前已知會**隨機傳送**的有以下網站
 | 語言 | 官方圖示 | 官方名稱 | 官方網址 |
