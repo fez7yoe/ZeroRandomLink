@@ -18,7 +18,7 @@
 目前已知會隨機傳送的有以下網站
 | 語言 | 官方圖示 | 官方名稱 | 官方網址 |
 | :---: | :---: | :---: | :---: |
-| 簡體中文 | <img src="https://www.foreverblog.cn/favicon.ico" width = "50" height = "50" alt="官方圖示" align="center" valign="center"> | 十年之约 | <a href="https://www.foreverblog.cn" target="_blank" style="text-decoration:none;">https://www.foreverblog.cn</a> |
+| 簡體中文 | <img src="https://www.foreverblog.cn/favicon.ico" width = "50" height = "50" alt="官方圖示" align="center" valign="center"> | 十年之约 | <a href="https://www.foreverblog.cn" target="_blank">https://www.foreverblog.cn</a> |
 | 簡體中文 | <img src="https://raw.githubusercontent.com/travellings-link/travellings/master/assets/favicon.png" width = "50" height = "50" alt="官方圖示" align="center" valign="center"> | 开往-友链接力 | https://github.com/travellings-link/travellings |
 | 簡體中文 | <img src="https://zhblogs.ohyee.cc/apple-touch-icon.png" width = "50" height = "50" alt="官方圖示" align="center" valign="center"> | 中文博客列表导航 | https://zhblogs.ohyee.cc |
 | 簡體中文 | <img src="https://bucker-for-sae.oss-cn-hangzhou.aliyuncs.com/sitesImages/82486042.jpg" width = "50" height = "50" alt="官方圖示" align="center" valign="center"> | 站点聚合平台 | http://sites.link |
