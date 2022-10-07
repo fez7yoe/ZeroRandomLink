@@ -1,2 +1,20 @@
 # 零技術傳送門 Zero Random Link
 傳送門會隨機的把你送到其中一個世界
+> 簡單點就是...<br>
+> 假如傳送門裡有 10 個[網址](https://zh.wikipedia.org/zh-tw/%E7%BB%9F%E4%B8%80%E8%B5%84%E6%BA%90%E5%AE%9A%E4%BD%8D%E7%AC%A6)，當你點擊進行傳送後，就會被隨機傳送到其中一個[網址](https://zh.wikipedia.org/zh-tw/%E7%BB%9F%E4%B8%80%E8%B5%84%E6%BA%90%E5%AE%9A%E4%BD%8D%E7%AC%A6)<br>
+> 這次可能會傳送到編號 1 的網址、下次可能會傳送到編號 3 的網址、下下次可能會傳送到編號 10 的網址<br>
+> **但也可能會重複把你傳送到同樣的網址**，例如這次是編號 1 的網址、下次也是編號 1 的網址<br>
+> 神奇的機率啊 (´◓Д◔`)
+## 傳送門的情況
+目前沒有人加入，所以我先將一些常逛的網址放進去充數 d(`･∀･)b
+## 相似的專案
+**如果還有其他沒有在下面的，快跟我縮，私心想收集** (́◉◞౪◟◉‵)<br>
+目前已知會隨機傳送的有以下網站
+| 語言 | 官方圖示 | 官方名稱 | 官方網址 |
+| :---: | :---: | :---: | :---: |
+| 簡體中文 | <img src="https://www.foreverblog.cn/favicon.ico" width = "50" height = "50" alt="官方圖示" align="center" valign="center"> | 十年之约 | https://www.foreverblog.cn |
+| 簡體中文 | <img src="https://raw.githubusercontent.com/travellings-link/travellings/master/assets/favicon.png" width = "50" height = "50" alt="官方圖示" align="center" valign="center"> | 开往-友链接力 | https://github.com/travellings-link/travellings |
+| 簡體中文 | <img src="https://zhblogs.ohyee.cc/apple-touch-icon.png" width = "50" height = "50" alt="官方圖示" align="center" valign="center"> | 中文博客列表导航 | https://zhblogs.ohyee.cc |
+| 簡體中文 | <img src="https://bucker-for-sae.oss-cn-hangzhou.aliyuncs.com/sitesImages/82486042.jpg" width = "50" height = "50" alt="官方圖示" align="center" valign="center"> | 站点聚合平台 | http://sites.link |
+| 簡體中文 | <img src="https://union.zhaodao.ai/icon.black.svg" width = "50" height = "50" alt="官方圖示" align="center" valign="center"> | Makers Union 创作者联盟 💍 | https://github.com/zhaodaoai/Makers-Union |
+| 英文 | <img src="https://webring.xxiivv.com/icon.black.svg" width = "50" height = "50" alt="官方圖示" align="center" valign="center"> | Webring | https://github.com/XXIIVV/webring |
