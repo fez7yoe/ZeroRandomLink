@@ -1,24 +1,27 @@
 # 零技術傳送門<br>Zero Random Link
 傳送門會隨機的把你送到其中一個世界
-> 簡單點就是...<br>
+> 簡單點說明運作方式就是...<br>
 > 假如傳送門裡有 10 個[網址](https://zh.wikipedia.org/zh-tw/%E7%BB%9F%E4%B8%80%E8%B5%84%E6%BA%90%E5%AE%9A%E4%BD%8D%E7%AC%A6)，當你[點擊進行傳送](https://fez7yoe.github.io/ZeroRandomLink/LetsGO.html)後，就會被隨機傳送到其中一個[網址](https://zh.wikipedia.org/zh-tw/%E7%BB%9F%E4%B8%80%E8%B5%84%E6%BA%90%E5%AE%9A%E4%BD%8D%E7%AC%A6)<br>
 > 這次可能會傳送到編號 1 的網址、下次可能會傳送到編號 3 的網址、下下次可能會傳送到編號 10 的網址<br>
 > **但也可能會重複把你傳送到同樣的網址**，例如這次是編號 1 的網址、下次也是編號 1 的網址<br>
 > 神奇的機率啊 (´◓Д◔`)
 ## 零技術傳送門的問與答 Q&A
-問題：為什麼將這個專案取名為零技術傳送門？<br>
-回答：**零技術**就...<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;因為我不會寫 Code 啊，JavaScript 是什麼？略懂 HTML 跟 CSS 而已<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**傳送門**就...<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;利用隨機啊、跳轉啊這些關鍵字來延伸到傳送門這個詞<br>
-問題：為什麼想建立這個專案？<br>
-回答：嗯哼，好問題
+問題 1：為什麼將這個專案取名為**零技術傳送門**？<br>
+回答 1：**零技術**就...<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;因為我不會寫 Code 啊，JavaScript 是什麼？略懂 HTML 跟 CSS 而已<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**傳送門**就...<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;利用隨機啊、跳轉啊這些關鍵字來延伸到傳送門這個詞<br>
+問題 2：為什麼建立這個專案？<br>
+回答 2：因為好玩啊，看到最下面的[相似專案](https://github.com/fez7yoe/ZeroRandomLink#%E7%9B%B8%E4%BC%BC%E7%9A%84%E5%B0%88%E6%A1%88)了嗎？<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;它們幾乎都有幾個共通點，會為了讓網站保持原創及積極性而提出[域名](https://zh.wikipedia.org/zh-tw/%E5%9F%9F%E5%90%8D)啊、文章數量啊、原創文章啊、網站運作時間等嚴格的規定<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可是積極是會被消磨掉的，尤其是在受挫時；原創則是不可能會有那麼多，要是有那麼多原創，今天的地球絕對不會這麼糟 ~~各種層面上~~<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;所以就抱著嘗試新東西的心情來建立這個專案<br>
 ## 相似的專案
 **如果還有其他沒有在下面的，快跟我縮，私心想收集** ლ(◉◞౪◟◉ )ლ<br>
 目前已知會隨機傳送的有以下網站
 | 語言 | 官方圖示 | 官方名稱 | 官方網址 |
 | :---: | :---: | :---: | :---: |
-| 簡體中文 | <img src="https://www.foreverblog.cn/favicon.ico" width = "50" height = "50" alt="官方圖示" align="center" valign="center"> | 十年之约 | <a href="https://www.foreverblog.cn" target="_blank">https://www.foreverblog.cn</a> |
+| 簡體中文 | <img src="https://www.foreverblog.cn/favicon.ico" width = "50" height = "50" alt="官方圖示" align="center" valign="center"> | 十年之约 | https://www.foreverblog.cn |
 | 簡體中文 | <img src="https://raw.githubusercontent.com/travellings-link/travellings/master/assets/favicon.png" width = "50" height = "50" alt="官方圖示" align="center" valign="center"> | 开往-友链接力 | https://github.com/travellings-link/travellings |
 | 簡體中文 | <img src="https://zhblogs.ohyee.cc/apple-touch-icon.png" width = "50" height = "50" alt="官方圖示" align="center" valign="center"> | 中文博客列表导航 | https://zhblogs.ohyee.cc |
 | 簡體中文 | <img src="https://bucker-for-sae.oss-cn-hangzhou.aliyuncs.com/sitesImages/82486042.jpg" width = "50" height = "50" alt="官方圖示" align="center" valign="center"> | 站点聚合平台 | http://sites.link |
