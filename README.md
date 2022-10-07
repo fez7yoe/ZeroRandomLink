@@ -18,12 +18,19 @@
 問題 3：這專案可以幹嘛？<br>
 回答 3：收集一些[部落格](https://zh.m.wikipedia.org/zh-tw/%E7%B6%B2%E8%AA%8C)或[論壇](https://zh.wikipedia.org/zh-tw/%E8%AE%BA%E5%9D%9B)的網址<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該部落格或論壇的擁有者可以利用[連結](https://fez7yoe.github.io/ZeroRandomLink/LetsGO.html)來互相導向對方的網站<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該部落格或論壇的訪客也可以藉此前往其他網站參觀<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;該部落格或論壇的訪客也可以利用[連結](https://fez7yoe.github.io/ZeroRandomLink/LetsGO.html)前往其他網站參觀<br>
 ## 零技術傳送門的參考資料
-你以為這是憑空造出來的嗎？才不是勒
+你以為這個專案是憑空造出來的嗎？才不是勒<br>
+某些網站已被防火牆阻擋，地理位置位於[中華人民共和國](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD)的使用者就隨手開個 VPN 翻牆看吧
+| 語言 | 網站圖示 | 標題名稱 | 網站網址 |
+| :---: | :---: | :---: | :---: |
+| 正體中文 | <img src="https://progressbar.tw/assets/icons/ms-icon-144x144-91f3810843503ce7a69429b8ee6f4e38872d9c3ff255ca7cd3e72746cd1b2b1b.png" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | HTML 新手網站基礎教學 | https://progressbar.tw/serials/5 |
+| 正體中文 | <img src="https://atung.iblog.tw/wp-content/uploads/2020/06/icon_pixnet.jpg" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | X-UA-Compatible 設置 IE 兼容模式 | https://injerry.pixnet.net/blog/post/57042465 |
+| 正體中文 | <img src="https://blog.darkthread.net/img/icon512x512.png" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | 搞懂 X-UA-Compatible IE 相容設定 | https://blog.darkthread.net/blog/x-ua-compatible-setting |
+| 正體中文 | <img src="https://www.fooish.com/favicon.ico" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | 設定 RWD 手機行動版網頁的 viewport 資訊 | https://www.fooish.com/html/meta-viewport.html |
 ## 跟零技術傳送門相似的專案
 **如果還有其他沒有在下面的，快跟我縮，私心想收集** ლ(◉◞౪◟◉ )ლ<br>
-目前已知會隨機傳送的有以下網站
+目前已知會**隨機傳送**的有以下網站
 | 語言 | 官方圖示 | 官方名稱 | 官方網址 |
 | :---: | :---: | :---: | :---: |
 | 簡體中文 | <img src="https://www.foreverblog.cn/favicon.ico" width = "50" height = "50" alt="官方圖示" align="center" valign="center"> | 十年之约 | https://www.foreverblog.cn |
