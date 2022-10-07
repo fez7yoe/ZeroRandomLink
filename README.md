@@ -12,10 +12,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**傳送門**就...<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;利用隨機啊、跳轉啊這些關鍵字來延伸到傳送門這個詞<br>
 問題 2：為什麼建立這個專案？<br>
-回答 2：因為好玩啊，看到最下面的[相似專案](https://github.com/fez7yoe/ZeroRandomLink#%E7%9B%B8%E4%BC%BC%E7%9A%84%E5%B0%88%E6%A1%88)了嗎？<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;它們幾乎都有幾個共通點，會為了讓網站保持原創及積極性而提出[域名](https://zh.wikipedia.org/zh-tw/%E5%9F%9F%E5%90%8D)啊、文章數量啊、原創文章啊、網站運作時間等嚴格的規定<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可是積極是會被消磨掉的，尤其是在受挫時；原創則是不可能會有那麼多，要是有那麼多原創，今天的地球絕對不會這麼糟 ~~各種層面上~~<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;所以就抱著嘗試新東西的心情來建立這個專案<br>
+回答 2：因為好玩啊，所以就抱著嘗試新東西的心情來建立這個專案<br>
 ## 相似的專案
 **如果還有其他沒有在下面的，快跟我縮，私心想收集** ლ(◉◞౪◟◉ )ლ<br>
 目前已知會隨機傳送的有以下網站
