@@ -1,0 +1,51 @@
+name: 零技術傳送門的資料收集入口
+description: 點擊右邊的 Get started 移動到填寫資料的表單
+labels: ["收集請求"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        在 Title 輸入部落格名稱
+  - type: input
+    id: name
+    attributes:
+      label: 部落格名稱
+      description: 請再輸入一次部落格名稱
+      placeholder: 名稱範例：零技術傳送門
+    validations:
+      required: true
+  - type: input
+    id: website
+    attributes:
+      label: 部落格連結
+      description: 輸入部落格的連結
+      placeholder: 連結範例：https://www.google.com.tw
+    validations:
+      required: true
+  - type: input
+    id: website
+    attributes:
+      label: 擁有者聯絡信箱
+      description: 輸入常用的信箱
+      placeholder: 信箱範例：fez7yoe@gmail.com
+    validations:
+      required: true
+  - type: input
+    id: place
+    attributes:
+      label: 語言
+      description: 輸入部落格的預設語言
+      placeholder: 語言範例：正體中文
+    validations:
+      required: true
+  - type: checkboxes
+    id: checkagain
+    attributes:
+      label: 管理員的提醒：
+      description: |
+        1. 資料確認無誤後，點擊右下的 Submit new issue 來發送表單
+        2. 若資料需要做修改，請至 零技術傳送門的資料更新入口 填寫新資料並發送表單
+        3. 管理員會給予長期處於無法造訪的部落格寄出信件詢問情況
+      options:
+        - label: 我知道了
+          required: true
