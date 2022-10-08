@@ -6,24 +6,24 @@
 > **但也可能會重複把你傳送到同樣的連結**，例如這次傳送到編號 1 的連結、下次也可能會傳送到編號 1 的連結<br>
 > 神奇的機率啊 (´◓Д◔`)
 ## 零技術傳送門的問與答 Q&A
-問題 1：為什麼將這個專案取名為**零技術傳送門**？<br>
+問題 1：為什麼取名為**零技術傳送門**？<br>
 回答 1：**零技術**代表...<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;管理員對 Code 很不熟<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**傳送門**則是...<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;腦力激盪利用隨機啊、跳轉啊這些關鍵字來延伸到傳送門這個詞<br>
 <br>
-問題 2：為什麼建立這個專案？<br>
-回答 2：管理員覺得這類隨機傳送的網頁好玩，所以就試著經營這個專案<br>
+問題 2：為什麼建立**零技術傳送門**？<br>
+回答 2：管理員覺得這類隨機傳送的網頁好玩，所以就試著經營它<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如果真的有人來參一咖那也不賴，吸收點社交能量<br>
 <br>
-問題 3：[現在這個專案頁面](https://github.com/fez7yoe/ZeroRandomLink)可以做什麼？<br>
-回答 3：以各位自主提供資料的方式來收集[部落格](https://zh.m.wikipedia.org/zh-tw/%E7%B6%B2%E8%AA%8C)的連結、更新部落格的變動資料，就一個記事本的概念<br>
-<br>
-問題 4：**零技術傳送門**有什麼神奇妙用？<br>
-回答 4：若你提供了部落格的資料、傳送門也收集好你的連結，你就會獲得兩種神奇力量<br>
+問題 3：**零技術傳送門**有什麼神奇妙用？<br>
+回答 3：若你提供了部落格的資料、傳送門也收集好你的連結，你就會獲得兩種神奇力量<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;部落格的擁有者可以藉由[零技術傳送門](https://fez7yoe.github.io/ZeroRandomLink/LetsGO.html)來導向其他已被收集的部落格<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;部落格的訪客也可以藉由[零技術傳送門](https://fez7yoe.github.io/ZeroRandomLink/LetsGO.html)前往其他部落格參觀<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**隨著收集的數量越多、效果也會越強**<br>
+<br>
+問題 4：那[現在這個專案頁面](https://github.com/fez7yoe/ZeroRandomLink)可以做什麼？<br>
+回答 4：以各位自主提供資料的方式來收集[部落格](https://zh.m.wikipedia.org/zh-tw/%E7%B6%B2%E8%AA%8C)的連結、更新部落格的變動資料，就一個記事本的概念<br>
 <br>
 問題 5：那麼要怎麼加入**零技術傳送門**呢？<br>
 回答 5：選擇[資料收集入口](https://github.com/fez7yoe/ZeroRandomLink/issues/new/choose)填寫資料並提交，等待管理員幫你處理<br>
