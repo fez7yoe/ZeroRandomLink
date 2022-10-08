@@ -15,7 +15,7 @@
 問題 2：為什麼建立這個專案？<br>
 回答 2：因為好玩啊，所以就抱著嘗試新東西的心情來建立這個專案<br>
 <br>
-問題 3：[這專案](https://github.com/fez7yoe/ZeroRandomLink)可以幹嘛？<br>
+問題 3：[現在這個專案頁面](https://github.com/fez7yoe/ZeroRandomLink)可以做什麼？<br>
 回答 3：以各位自主提供資訊的方式來收集[部落格](https://zh.m.wikipedia.org/zh-tw/%E7%B6%B2%E8%AA%8C)的網址、更新部落格的變動資訊，就一個記事本的概念<br>
 <br>
 問題 4：**零技術傳送門**的神奇妙用<br>
@@ -34,7 +34,7 @@
 | 正體中文 | <img src="https://blog.darkthread.net/img/icon512x512.png" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | [搞懂 X-UA-Compatible IE 相容設定](https://blog.darkthread.net/blog/x-ua-compatible-setting) |
 | 正體中文 | <img src="https://www.fooish.com/favicon.ico" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | [設定 RWD 手機行動版網頁的 viewport 資訊](https://www.fooish.com/html/meta-viewport.html) |
 | 簡體中文 | <img src="https://fh-imgs-enterprise-g01.cos.ymzsl.cn/6300ace22e00b.png" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | [通过 JS 显示网站运行时间](https://www.smalljun.com/archives/%E9%80%9A%E8%BF%87js%E6%98%BE%E7%A4%BA%E7%BD%91%E7%AB%99%E8%BF%90%E8%A1%8C%E6%97%B6%E9%97%B4.html) |
-| 正體中文 | <img src="https://pjchender.dev/img/pjchender.png" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | [談 target="_blank" 的安全性風險](https://pjchender.blogspot.com/2020/05/relnoreferrer-targetblank.html) |
+| 正體中文 | <img src="https://pjchender.dev/img/pjchender.png" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | [為什麼要使用 rel="noreferrer noopener"](https://pjchender.blogspot.com/2020/05/relnoreferrer-targetblank.html) |
 ***
 以下是使用素材來源
 | 語言 | 網站圖示 | 素材用途 |
