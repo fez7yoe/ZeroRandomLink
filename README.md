@@ -3,23 +3,24 @@
 > 這邊簡單說明它的運作方式<br>
 > 假如傳送門裡有 10 個[連結](https://zh.wikipedia.org/zh-tw/%E7%BB%9F%E4%B8%80%E8%B5%84%E6%BA%90%E5%AE%9A%E4%BD%8D%E7%AC%A6)，當你[點擊進行傳送](https://fez7yoe.github.io/ZeroRandomLink/LetsGO.html)後，就會被隨機傳送到其中一個[連結](https://zh.wikipedia.org/zh-tw/%E7%BB%9F%E4%B8%80%E8%B5%84%E6%BA%90%E5%AE%9A%E4%BD%8D%E7%AC%A6)<br>
 > 這次可能會傳送到編號 1 的連結、下次可能會傳送到編號 3 的連結、下下次可能會傳送到編號 10 的連結<br>
-> **但也可能會重複把你傳送到同樣的連結**，例如這次是編號 1 的連結、下次也是編號 1 的連結<br>
+> **但也可能會重複把你傳送到同樣的連結**，例如這次傳送到編號 1 的連結、下次也可能會傳送到編號 1 的連結<br>
 > 神奇的機率啊 (´◓Д◔`)
 ## 零技術傳送門的問與答 Q&A
 問題 1：為什麼將這個專案取名為**零技術傳送門**？<br>
-回答 1：**零技術**就...<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;因為我不會寫 Code 啊，JavaScript 是什麼？略懂 HTML 跟 CSS 而已<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**傳送門**就...<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;利用隨機啊、跳轉啊這些關鍵字來延伸到傳送門這個詞<br>
+回答 1：**零技術**代表...<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;管理員對 Code 很不熟<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**傳送門**則是...<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;腦力激盪利用隨機啊、跳轉啊這些關鍵字來延伸到傳送門這個詞<br>
 <br>
 問題 2：為什麼建立這個專案？<br>
-回答 2：因為好玩啊，所以就抱著嘗試新東西的心情來建立這個專案<br>
+回答 2：管理員覺得這類隨機跳轉的網頁好玩，所以就試著經營這個專案<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如果真的有人來參一咖那也不賴，訓練管理員的處理效率<br>
 <br>
 問題 3：[現在這個專案頁面](https://github.com/fez7yoe/ZeroRandomLink)可以做什麼？<br>
 回答 3：以各位自主提供資料的方式來收集[部落格](https://zh.m.wikipedia.org/zh-tw/%E7%B6%B2%E8%AA%8C)的連結、更新部落格的變動資料，就一個記事本的概念<br>
 <br>
-問題 4：**零技術傳送門**的神奇妙用<br>
-回答 4：若你提供了部落格的資料、傳送門也收集好你的連結，你就會獲得兩種潛在流量：<br>
+問題 4：**零技術傳送門**有什麼神奇妙用？<br>
+回答 4：若你提供了部落格的資料、傳送門也收集好你的連結，你就會獲得兩種神奇力量：<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;部落格的擁有者可以藉由[零技術傳送門](https://fez7yoe.github.io/ZeroRandomLink/LetsGO.html)來導向其他已被收集的部落格<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;部落格的訪客也可以藉由[零技術傳送門](https://fez7yoe.github.io/ZeroRandomLink/LetsGO.html)前往其他部落格參觀<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**隨著收集的數量越多、效果也會越強**<br>
@@ -44,6 +45,7 @@
 | 英文 | <img src="https://cpwebassets.codepen.io/assets/favicon/apple-touch-icon-5ae1a0698dcc2402e9712f7d01ed509a57814f994c660df9f7a952f3060705ee.png" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | [背景動畫](https://codepen.io/ElHalWaNY/pen/zKRQGx) |
 | 英文 | <img src="https://images.squarespace-cdn.com/content/v1/50eca855e4b0939ae8bb12d9/1381006470272-AJCDIBP37RWH3OCJIYBV/favicon.ico" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | [隨機連結](https://learninginhand.com/blog/random-messages-and-links) |
 | 簡體中文 | <img src="https://res.wx.qq.com/a/wx_fed/assets/res/OTE0YTAw.png" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | [網站字體](https://mp.weixin.qq.com/s/t_00phJay2v8CwQh0UwufA)<br>[下載密碼 njzy ](https://njzybaby.lanzoui.com/b07sle58j) |
+| 簡體中文 | <img src="https://raw.githubusercontent.com/travellings-link/travellings/master/assets/favicon.png" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | [ Issus Template](https://github.com/travellings-link/travellings) |
 ## 與零技術傳送門相似的專案
 **如果還有其他沒有在下面的，快跟我縮，私心想收集** ლ(◉◞౪◟◉ )ლ<br>
 目前已知會**隨機傳送**的有以下網站
