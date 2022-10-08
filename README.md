@@ -33,6 +33,8 @@
 | 正體中文 | <img src="https://atung.iblog.tw/wp-content/uploads/2020/06/icon_pixnet.jpg" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | [X-UA-Compatible 設置 IE 兼容模式](https://injerry.pixnet.net/blog/post/57042465) |
 | 正體中文 | <img src="https://blog.darkthread.net/img/icon512x512.png" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | [搞懂 X-UA-Compatible IE 相容設定](https://blog.darkthread.net/blog/x-ua-compatible-setting) |
 | 正體中文 | <img src="https://www.fooish.com/favicon.ico" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | [設定 RWD 手機行動版網頁的 viewport 資訊](https://www.fooish.com/html/meta-viewport.html) |
+| 簡體中文 | <img src="https://fh-imgs-enterprise-g01.cos.ymzsl.cn/6300ace22e00b.png" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | [通过 JS 显示网站运行时间](https://www.smalljun.com/archives/%E9%80%9A%E8%BF%87js%E6%98%BE%E7%A4%BA%E7%BD%91%E7%AB%99%E8%BF%90%E8%A1%8C%E6%97%B6%E9%97%B4.html) |
+| 正體中文 | <img src="https://pjchender.dev/img/pjchender.png" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | [談 target="_blank" 的安全性風險](https://pjchender.blogspot.com/2020/05/relnoreferrer-targetblank.html) |
 ***
 以下是使用素材來源
 | 語言 | 網站圖示 | 素材用途 |
