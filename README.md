@@ -13,17 +13,23 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;腦力激盪利用隨機啊、跳轉啊這些關鍵字來延伸到傳送門這個詞<br>
 <br>
 問題 2：為什麼建立這個專案？<br>
-回答 2：管理員覺得這類隨機跳轉的網頁好玩，所以就試著經營這個專案<br>
+回答 2：管理員覺得這類隨機傳送的網頁好玩，所以就試著經營這個專案<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如果真的有人來參一咖那也不賴，吸收點社交能量<br>
 <br>
 問題 3：[現在這個專案頁面](https://github.com/fez7yoe/ZeroRandomLink)可以做什麼？<br>
 回答 3：以各位自主提供資料的方式來收集[部落格](https://zh.m.wikipedia.org/zh-tw/%E7%B6%B2%E8%AA%8C)的連結、更新部落格的變動資料，就一個記事本的概念<br>
 <br>
 問題 4：**零技術傳送門**有什麼神奇妙用？<br>
-回答 4：若你提供了部落格的資料、傳送門也收集好你的連結，你就會獲得兩種神奇力量：<br>
+回答 4：若你提供了部落格的資料、傳送門也收集好你的連結，你就會獲得兩種神奇力量<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;部落格的擁有者可以藉由[零技術傳送門](https://fez7yoe.github.io/ZeroRandomLink/LetsGO.html)來導向其他已被收集的部落格<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;部落格的訪客也可以藉由[零技術傳送門](https://fez7yoe.github.io/ZeroRandomLink/LetsGO.html)前往其他部落格參觀<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**隨著收集的數量越多、效果也會越強**<br>
+<br>
+問題 5：那麼要怎麼加入**零技術傳送門**呢？<br>
+回答 5：選擇[資料收集入口](https://github.com/fez7yoe/ZeroRandomLink/issues/new/choose)填寫資料並提交，等待管理員幫你處理<br>
+<br>
+問題 6：怎麼查看處理進度？<br>
+回答 6：前往[Issues](https://github.com/fez7yoe/ZeroRandomLink/issues)查看專案目前正在處理的進度<br>
 ## 零技術傳送門的參考資料
 你以為這個專案是憑空造出來的嗎？才不是勒<br>
 某些網站已被[防火長城](https://zh.wikipedia.org/zh-tw/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E)阻擋，地理位置位於[中華人民共和國](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD)的使用者就隨手開個 VPN 翻牆看吧<br>
