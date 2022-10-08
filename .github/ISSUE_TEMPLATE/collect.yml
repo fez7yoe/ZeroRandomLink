@@ -15,7 +15,7 @@ body:
     validations:
       required: true
   - type: input
-    id: website
+    id: link
     attributes:
       label: 部落格連結
       description: 輸入部落格的連結
@@ -23,7 +23,7 @@ body:
     validations:
       required: true
   - type: input
-    id: website
+    id: email
     attributes:
       label: 擁有者聯絡信箱
       description: 輸入常用的信箱
@@ -31,7 +31,7 @@ body:
     validations:
       required: true
   - type: input
-    id: place
+    id: language
     attributes:
       label: 語言
       description: 輸入部落格的預設語言
