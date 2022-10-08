@@ -14,7 +14,7 @@
 <br>
 問題 2：為什麼建立這個專案？<br>
 回答 2：管理員覺得這類隨機跳轉的網頁好玩，所以就試著經營這個專案<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如果真的有人來參一咖那也不賴，訓練管理員的處理效率<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如果真的有人來參一咖那也不賴，吸收點社交能量<br>
 <br>
 問題 3：[現在這個專案頁面](https://github.com/fez7yoe/ZeroRandomLink)可以做什麼？<br>
 回答 3：以各位自主提供資料的方式來收集[部落格](https://zh.m.wikipedia.org/zh-tw/%E7%B6%B2%E8%AA%8C)的連結、更新部落格的變動資料，就一個記事本的概念<br>
