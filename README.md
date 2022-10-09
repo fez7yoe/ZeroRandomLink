@@ -31,6 +31,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;方便讓你自己跟你的訪客看到，並感興趣的點進來是再好不過囉<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;零技術傳送門的主頁連結：https://fez7yoe.github.io/ZeroRandomLink/LetsGO.html<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;零技術傳送門的傳送頁連結：https://fez7yoe.github.io/ZeroRandomLink/RandomLink.html<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;想利用圖示搭配連結的話，管理員自己的部落格是用[fa-solid fa-rotate](https://fontawesome.com/icons/rotate?s=solid&f=classic)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如果不喜歡管理員推薦的，可以到[Font Awesome](https://fontawesome.com/search?o=r&m=free)找你喜歡的免費圖示<br>
 <br>
 問題 5：怎麼加入**零技術傳送門**？<br>
 回答 5：選擇[資料收集入口](https://github.com/fez7yoe/ZeroRandomLink/issues/new/choose)填寫資料並提交，等待管理員幫你處理<br>
