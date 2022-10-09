@@ -1,6 +1,7 @@
 name: 零技術傳送門的資料更新入口
 description: 點擊右邊的 Get started 移動到填寫新資料的表單
 labels: ["更新請求"]
+assignees: fez7yoe
 body:
   - type: markdown
     attributes:
@@ -10,7 +11,7 @@ body:
     id: name
     attributes:
       label: 部落格名稱
-      description: 請再輸入一次部落格名稱
+      description: 請再輸入一次部落格名稱，用於[收集記錄](https://github.com/fez7yoe/ZeroRandomLink/blob/main/BlogLog.md)
       placeholder: 名稱範例：零技術傳送門
     validations:
       required: true
@@ -18,7 +19,7 @@ body:
     id: link
     attributes:
       label: 部落格連結
-      description: 輸入部落格的連結
+      description: 輸入部落格的連結，用於[收集記錄](https://github.com/fez7yoe/ZeroRandomLink/blob/main/BlogLog.md)
       placeholder: 連結範例：https://www.google.com.tw
     validations:
       required: true
@@ -26,7 +27,7 @@ body:
     id: email
     attributes:
       label: 擁有者聯絡信箱
-      description: 輸入常用的信箱
+      description: 輸入常用的信箱，用於[收集記錄](https://github.com/fez7yoe/ZeroRandomLink/blob/main/BlogLog.md)
       placeholder: 信箱範例：fez7yoe@gmail.com
     validations:
       required: true
@@ -34,7 +35,7 @@ body:
     id: language
     attributes:
       label: 語言
-      description: 輸入部落格的預設語言
+      description: 輸入部落格的預設語言，用於[收集記錄](https://github.com/fez7yoe/ZeroRandomLink/blob/main/BlogLog.md)
       placeholder: 語言範例：正體中文
     validations:
       required: true
@@ -45,7 +46,7 @@ body:
       description: |
         1. 資料確認無誤後，點擊右下的 Submit new issue 來提交表單
         2. 若資料需要做修改，請至[零技術傳送門的資料更新入口](https://github.com/fez7yoe/ZeroRandomLink/issues/new/choose)填寫新資料並提交表單
-        3. 管理員會給予長期處於無法造訪的部落格寄出信件詢問情況
+        3. 管理員會依[狀態監控](https://zerorandomlink.fez7yoe.repl.co/status/page)給予長期處於無法造訪的部落格寄出信件詢問情況
       options:
         - label: 我知道了
           required: true
