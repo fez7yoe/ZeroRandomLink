@@ -42,7 +42,7 @@
 <br>
 問題 7：那[現在這個專案頁面](https://github.com/fez7yoe/ZeroRandomLink)可以做什麼？<br>
 回答 7：主要收集各位自主提供關於[部落格](https://zh.m.wikipedia.org/zh-tw/%E7%B6%B2%E8%AA%8C)的相關資料，並記錄起來防止管理員健忘<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;次要就如果有已收集的部落格資料有變動，也方便管理員處理並更新<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;次要則若已收集的部落格資料有發生變化，也方便管理員處理並更新<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一個記事本的概念就對惹<br>
 ## 零技術傳送門的參考資料
 你以為這個專案是憑空造出來的嗎？才不是勒<br>
