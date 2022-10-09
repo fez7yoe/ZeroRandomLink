@@ -44,7 +44,7 @@ body:
       label: 管理員的提醒：
       description: |
         1. 資料確認無誤後，點擊右下的 Submit new issue 來提交表單
-        2. 若資料需要做修改，請至 零技術傳送門的資料更新入口 填寫新資料並提交表單
+        2. 若資料需要做修改，請至[零技術傳送門的資料更新入口](https://github.com/fez7yoe/ZeroRandomLink/issues/new/choose)填寫新資料並提交表單
         3. 管理員會給予長期處於無法造訪的部落格寄出信件詢問情況
       options:
         - label: 我知道了
