@@ -44,7 +44,7 @@
 回答 7：主要收集各位自主提供關於[部落格](https://zh.m.wikipedia.org/zh-tw/%E7%B6%B2%E8%AA%8C)的相關資料，並記錄起來防止管理員健忘<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;次要則若已收集的部落格資料有發生變化，也方便管理員處理並更新<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一個記事本的概念就對惹<br>
-## 零技術傳送門的參考資料
+## 零技術傳送門的建設材料
 你以為這個專案是憑空造出來的嗎？才不是勒<br>
 某些網站已被[防火長城](https://zh.wikipedia.org/zh-tw/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E)阻擋，地理位置位於[中華人民共和國](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD)的使用者就隨手開個 VPN 翻牆看吧<br>
 以下是語法設定參考
