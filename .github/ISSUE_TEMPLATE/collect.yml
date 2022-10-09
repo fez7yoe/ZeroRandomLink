@@ -1,8 +1,7 @@
 name: 零技術傳送門的資料收集入口
 description: 點擊右邊的 Get started 移動到填寫資料的表單
 labels: ["收集請求"]
-assignees:
-  - fez7yoe
+assignees: fez7yoe
 body:
   - type: markdown
     attributes:
