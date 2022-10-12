@@ -67,6 +67,7 @@
 | 英文 | <img src="https://images.squarespace-cdn.com/content/v1/50eca855e4b0939ae8bb12d9/1381006470272-AJCDIBP37RWH3OCJIYBV/favicon.ico" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | [隨機連結](https://learninginhand.com/blog/random-messages-and-links) |
 | 簡體中文 | <img src="https://res.wx.qq.com/a/wx_fed/assets/res/OTE0YTAw.png" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | [網站字體](https://mp.weixin.qq.com/s/t_00phJay2v8CwQh0UwufA)<br>[下載密碼 njzy ](https://njzybaby.lanzoui.com/b07sle58j) |
 | 簡體中文 | <img src="https://raw.githubusercontent.com/travellings-link/travellings/master/assets/favicon.png" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | [ Issus Template](https://github.com/travellings-link/travellings) |
+| 簡體中文 | <img src="https://cdn.dsrkafuu.net/favicon/favicon.ico" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | [Lycoris Recoil Widget](https://github.com/dsrkafuu/sakana-widget) |
 ## 與零技術傳送門相似的專案
 **如果還有其他沒有在下面的，快跟我縮，私心想收集** ლ(◉◞౪◟◉ )ლ<br>
 目前已知會**隨機傳送**的有以下網站
