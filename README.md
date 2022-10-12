@@ -70,7 +70,7 @@
 | 簡體中文 | <img src="https://raw.githubusercontent.com/travellings-link/travellings/master/assets/favicon.png" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | [ Issus Template](https://github.com/travellings-link/travellings) |
 | 簡體中文 | <img src="https://cdn.dsrkafuu.net/favicon/favicon.ico" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | [Lycoris Recoil Widget](https://github.com/dsrkafuu/sakana-widget) |
 ## 與零技術傳送門相似的專案
-**如果還有其他沒有在下面的，快跟我縮，私心想收集** ლ(◉◞౪◟◉ )ლ<br>
+**如果還有其他的，快跟管理員說，私心想收集** ლ(◉◞౪◟◉ )ლ<br>
 目前已知會**隨機傳送**的有以下網站
 | 語言 | 官方圖示 | 官方名稱及連結 |
 | :---: | :---: | :---: |
