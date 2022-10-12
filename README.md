@@ -29,6 +29,7 @@
 回答 4：只要把**零技術傳送門**的連結放在你部落格裡的任意地方<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;像是友情連結的頁面裡、位於部落格頁面底部的[頁尾](https://www.cadiis.com.tw/blog/must-know-proper-noun-of-web-design#linktofooter)、待在部落格頁面側邊的欄位也是不錯的地方<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;方便讓你自己跟你的訪客看到，並感興趣的點進來是再好不過囉<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;拿[管理員的部落格](https://fez7yoe.github.io)來當範例：導覽列、側邊欄、頁尾、友情連結<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;零技術傳送門的主頁連結：https://fez7yoe.github.io/ZeroRandomLink/LetsGO.html<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;零技術傳送門的傳送頁連結：https://fez7yoe.github.io/ZeroRandomLink/RandomLink.html<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;想利用圖示搭配連結的話，管理員自己的部落格是用[fa-solid fa-rotate](https://fontawesome.com/icons/rotate?s=solid&f=classic)<br>
@@ -48,7 +49,7 @@
 你以為這個專案是憑空造出來的嗎？才不是勒<br>
 某些網站已被[防火長城](https://zh.wikipedia.org/zh-tw/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E)阻擋，地理位置位於[中華人民共和國](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD)的使用者就隨手開個 VPN 翻牆看吧<br>
 以下是語法設定參考
-| 語言 | 網站圖示 | 標題名稱 |
+| 語言 | 網站圖示 | 標題名稱及連結 |
 | :---: | :---: | :---: |
 | 正體中文 | <img src="https://progressbar.tw/assets/icons/ms-icon-144x144-91f3810843503ce7a69429b8ee6f4e38872d9c3ff255ca7cd3e72746cd1b2b1b.png" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | [HTML 新手網站基礎教學](https://progressbar.tw/serials/5) |
 | 正體中文 | <img src="https://atung.iblog.tw/wp-content/uploads/2020/06/icon_pixnet.jpg" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | [X-UA-Compatible 設置 IE 兼容模式](https://injerry.pixnet.net/blog/post/57042465) |
@@ -58,7 +59,7 @@
 | 正體中文 | <img src="https://pjchender.dev/img/pjchender.png" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | [為什麼要使用 rel="noreferrer noopener"](https://pjchender.blogspot.com/2020/05/relnoreferrer-targetblank.html) |
 ***
 以下是使用素材來源
-| 語言 | 網站圖示 | 素材用途 |
+| 語言 | 網站圖示 | 素材用途及連結 |
 | :---: | :---: | :---: |
 | 英文 | <img src="https://media.flaticon.com/dist/min/img/apple-icon-152x152-precomposed.png" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | [捷徑圖示](https://www.flaticon.com/free-icon/exchange_5791562?related_id=5791562&origin=search) |
 | 英文 | <img src="https://cpwebassets.codepen.io/assets/favicon/apple-touch-icon-5ae1a0698dcc2402e9712f7d01ed509a57814f994c660df9f7a952f3060705ee.png" width = "50" height = "50" alt="網站圖示" align="center" valign="center"> | [字體特效](https://codepen.io/team/css-tricks/pen/xxPOgmZ) |
@@ -69,11 +70,11 @@
 ## 與零技術傳送門相似的專案
 **如果還有其他沒有在下面的，快跟我縮，私心想收集** ლ(◉◞౪◟◉ )ლ<br>
 目前已知會**隨機傳送**的有以下網站
-| 語言 | 官方圖示 | 官方名稱 | 官方連結 |
-| :---: | :---: | :---: | :---: |
-| 簡體中文 | <img src="https://www.foreverblog.cn/favicon.ico" width = "50" height = "50" alt="官方圖示" align="center" valign="center"> | 十年之约 | https://www.foreverblog.cn |
-| 簡體中文 | <img src="https://raw.githubusercontent.com/travellings-link/travellings/master/assets/favicon.png" width = "50" height = "50" alt="官方圖示" align="center" valign="center"> | 开往-友链接力 | https://github.com/travellings-link/travellings |
-| 簡體中文 | <img src="https://zhblogs.ohyee.cc/apple-touch-icon.png" width = "50" height = "50" alt="官方圖示" align="center" valign="center"> | 中文博客列表导航 | https://zhblogs.ohyee.cc |
-| 簡體中文 | <img src="https://bucker-for-sae.oss-cn-hangzhou.aliyuncs.com/sitesImages/82486042.jpg" width = "50" height = "50" alt="官方圖示" align="center" valign="center"> | 站点聚合平台 | http://sites.link |
-| 簡體中文 | <img src="https://union.zhaodao.ai/icon.black.svg" width = "50" height = "50" alt="官方圖示" align="center" valign="center"> | Makers Union 创作者联盟 💍 | https://github.com/zhaodaoai/Makers-Union |
-| 英文 | <img src="https://webring.xxiivv.com/icon.black.svg" width = "50" height = "50" alt="官方圖示" align="center" valign="center"> | Webring | https://github.com/XXIIVV/webring |
+| 語言 | 官方圖示 | 官方名稱及連結 |
+| :---: | :---: | :---: |
+| 簡體中文 | <img src="https://www.foreverblog.cn/favicon.ico" width = "50" height = "50" alt="官方圖示" align="center" valign="center"> | [十年之约](https://www.foreverblog.cn) |
+| 簡體中文 | <img src="https://raw.githubusercontent.com/travellings-link/travellings/master/assets/favicon.png" width = "50" height = "50" alt="官方圖示" align="center" valign="center"> | [开往-友链接力](https://github.com/travellings-link/travellings) |
+| 簡體中文 | <img src="https://zhblogs.ohyee.cc/apple-touch-icon.png" width = "50" height = "50" alt="官方圖示" align="center" valign="center"> | [中文博客列表导航](https://zhblogs.ohyee.cc) |
+| 簡體中文 | <img src="https://bucker-for-sae.oss-cn-hangzhou.aliyuncs.com/sitesImages/82486042.jpg" width = "50" height = "50" alt="官方圖示" align="center" valign="center"> | [站点聚合平台](http://sites.link) |
+| 簡體中文 | <img src="https://union.zhaodao.ai/icon.black.svg" width = "50" height = "50" alt="官方圖示" align="center" valign="center"> | [Makers Union 创作者联盟 💍](https://github.com/zhaodaoai/Makers-Union) |
+| 英文 | <img src="https://webring.xxiivv.com/icon.black.svg" width = "50" height = "50" alt="官方圖示" align="center" valign="center"> | [Webring](https://github.com/XXIIVV/webring) |
