@@ -29,7 +29,7 @@
 回答 4：只要把**零技術傳送門**的連結放在你部落格裡的任意地方<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;像是友情連結的頁面裡、位於部落格頁面底部的[頁尾](https://www.cadiis.com.tw/blog/must-know-proper-noun-of-web-design#linktofooter)、待在部落格頁面側邊的欄位也是不錯的地方<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;方便讓你自己跟你的訪客看到、並感興趣的點進來，這一連串的動作就達成了遊戲的迴圈精隨<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;拿[管理員的部落格](https://fez7yoe.github.io)來當範例：導覽列、側邊欄、頁尾、友情連結<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;拿[管理員的部落格](https://fez7yoe.github.io)來當範例：導覽列、側邊欄、頁尾、友情連結，則一即可<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;零技術傳送門的主頁連結：https://fez7yoe.github.io/ZeroRandomLink/LetsGO.html<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;零技術傳送門的傳送頁連結：https://fez7yoe.github.io/ZeroRandomLink/RandomLink.html<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;想利用圖示搭配連結的話，管理員自己的部落格是用[fa-solid fa-rotate](https://fontawesome.com/icons/rotate?s=solid&f=classic)<br>
