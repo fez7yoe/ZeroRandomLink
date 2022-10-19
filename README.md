@@ -6,7 +6,8 @@
 > **但也可能會重複把你傳送到同樣的連結**，例如這次傳送到編號 1 的連結、下次也可能會傳送到編號 1 的連結<br>
 > 神奇的機率啊 (´◓Д◔`)<br>
 
-想要加入一起玩的人可以到[資料收集入口](https://github.com/fez7yoe/ZeroRandomLink/issues/new/choose)填寫資料喔~
+想加入一起玩？歡迎到[資料收集](https://github.com/fez7yoe/ZeroRandomLink/issues/new/choose)入口填寫資料<br>
+想知道目前有多少人加入則前往[收集記錄](https://github.com/fez7yoe/ZeroRandomLink/blob/main/BlogLog.md)查閱
 ## 零技術傳送門的狀態監控與流量分析
 [狀態監控](https://zerorandomlink.fez7yoe.repl.co/status/page)：隨時檢查零技術傳送門相關頁面和已收集之部落格的網站運作情況<br>
 流量分析：等管理員搞懂再放上來
@@ -39,14 +40,14 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如果不喜歡管理員使用的圖示，還可以到[Font Awesome](https://fontawesome.com/search?o=r&m=free)找你喜歡的免費圖示<br>
 <br>
 問題 5：怎麼加入**零技術傳送門**？<br>
-回答 5：選擇[資料收集入口](https://github.com/fez7yoe/ZeroRandomLink/issues/new/choose)填寫資料並提交，等待管理員幫你處理<br>
+回答 5：選擇[資料收集](https://github.com/fez7yoe/ZeroRandomLink/issues/new/choose)入口填寫資料並提交，等待管理員幫你處理<br>
 <br>
 問題 6：怎麼查看處理進度？<br>
 回答 6：前往[Issues](https://github.com/fez7yoe/ZeroRandomLink/issues)查看目前正在處理的進度<br>
 <br>
 問題 7：收集起來的資料用在哪？<br>
 回答 7：管理員會把資料統整到[收集記錄](https://github.com/fez7yoe/ZeroRandomLink/blob/main/BlogLog.md)保存起來，同時防止管理員健忘症發作忘記誰是誰<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;記錄的閱讀權限為公開，代表大家都可以看到<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;收集記錄的閱讀權限為公開，代表大家都可以看到<br>
 <br>
 問題 8：那[現在這個專案頁面](https://github.com/fez7yoe/ZeroRandomLink)可以做什麼？<br>
 回答 8：主要收集各位自主提供關於[部落格](https://zh.m.wikipedia.org/zh-tw/%E7%B6%B2%E8%AA%8C)的相關資料，並記錄起來防止管理員健忘<br>
