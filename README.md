@@ -44,8 +44,12 @@
 問題 6：怎麼查看處理進度？<br>
 回答 6：前往[Issues](https://github.com/fez7yoe/ZeroRandomLink/issues)查看目前正在處理的進度<br>
 <br>
-問題 7：那[現在這個專案頁面](https://github.com/fez7yoe/ZeroRandomLink)可以做什麼？<br>
-回答 7：主要收集各位自主提供關於[部落格](https://zh.m.wikipedia.org/zh-tw/%E7%B6%B2%E8%AA%8C)的相關資料，並記錄起來防止管理員健忘<br>
+問題 7：收集起來的資料用在哪？<br>
+回答 7：管理員會把資料統整到[收集記錄](https://github.com/fez7yoe/ZeroRandomLink/blob/main/BlogLog.md)保存起來，同時防止管理員健忘症發作忘記誰是誰<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;記錄的閱讀權限為公開，代表大家都可以看到<br>
+<br>
+問題 8：那[現在這個專案頁面](https://github.com/fez7yoe/ZeroRandomLink)可以做什麼？<br>
+回答 8：主要收集各位自主提供關於[部落格](https://zh.m.wikipedia.org/zh-tw/%E7%B6%B2%E8%AA%8C)的相關資料，並記錄起來防止管理員健忘<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;次要則若已收集的部落格資料有發生變化，也方便管理員處理並更新<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一個記事本的概念<br>
 ## 零技術傳送門的建設材料
