@@ -1,10 +1,12 @@
 # 零技術傳送門<br>Zero Random Link
 傳送門會隨機的把你送到其中一個世界
-> 這邊簡單說明它的運作方式<br>
+> 簡單說明它的運作方式<br>
 > 假如傳送門裡有 10 個[連結](https://zh.wikipedia.org/zh-tw/%E7%BB%9F%E4%B8%80%E8%B5%84%E6%BA%90%E5%AE%9A%E4%BD%8D%E7%AC%A6)，當你[點擊進行傳送](https://fez7yoe.github.io/ZeroRandomLink/LetsGO.html)後，就會被隨機傳送到其中一個[連結](https://zh.wikipedia.org/zh-tw/%E7%BB%9F%E4%B8%80%E8%B5%84%E6%BA%90%E5%AE%9A%E4%BD%8D%E7%AC%A6)<br>
 > 這次可能會傳送到編號 1 的連結、下次可能會傳送到編號 3 的連結、下下次可能會傳送到編號 10 的連結<br>
 > **但也可能會重複把你傳送到同樣的連結**，例如這次傳送到編號 1 的連結、下次也可能會傳送到編號 1 的連結<br>
-> 神奇的機率啊 (´◓Д◔`)
+> 神奇的機率啊 (´◓Д◔`)<br>
+
+想要加入一起玩的人可以到[資料收集入口](https://github.com/fez7yoe/ZeroRandomLink/issues/new/choose)填寫資料喔~
 ## 零技術傳送門的狀態監控與流量分析
 [狀態監控](https://zerorandomlink.fez7yoe.repl.co/status/page)：隨時檢查零技術傳送門相關頁面和已收集之部落格的網站運作情況<br>
 流量分析：等管理員搞懂再放上來
