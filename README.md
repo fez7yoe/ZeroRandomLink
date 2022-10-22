@@ -19,17 +19,18 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;腦力激盪利用隨機啊、跳轉啊這些關鍵字來延伸到傳送門這個詞<br>
 <br>
 問題 2：為什麼建立**零技術傳送門**？<br>
-回答 2：管理員覺得隨機傳送類型的網頁很好玩，所以就試著經營它<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;順便吸收點社交能量<br>
+回答 2：管理員覺得隨機傳送類型的網頁很好玩，所以就試著做出它<br>
 <br>
 問題 3：**零技術傳送門**有什麼神奇妙用？<br>
 回答 3：若你提供了部落格的資料、傳送門也收集好你的連結，你就會獲得兩種神奇力量<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;部落格的擁有者可以藉由[零技術傳送門](https://fez7yoe.github.io/ZeroRandomLink/LetsGO.html)來導向其他已被收集的部落格<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;部落格的訪客也可以藉由[零技術傳送門](https://fez7yoe.github.io/ZeroRandomLink/LetsGO.html)前往其他部落格參觀<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**隨著收集的數量越多、效果也會越強**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;總之就是玩流量<br>
 <br>
 問題 4：怎麼使用**零技術傳送門**？<br>
-回答 4：只要把**零技術傳送門**的連結放在你部落格裡的任意地方<br>
+回答 4：放連結會更方便你自己跟你的訪客藉此進行傳送、不加也行這不強迫<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;把**零技術傳送門**的連結放在你部落格裡的任意地方<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;像是友情連結的頁面裡、位於部落格頁面底部的[頁尾](https://www.cadiis.com.tw/blog/must-know-proper-noun-of-web-design#linktofooter)、待在部落格頁面側邊的欄位也是不錯的地方<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;方便讓你自己跟你的訪客看到、並感興趣的點進來，這一連串的動作就達成了遊戲的迴圈精隨<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;拿[管理員的部落格](https://fez7yoe.github.io)來當範例：導覽列、側邊欄、頁尾、友情連結，或其他的地方擇一放置即可<br>
@@ -50,11 +51,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;收集記錄的閱讀權限為公開，代表大家都可以看到<br>
 <br>
 問題 8：那[現在這個專案頁面](https://github.com/fez7yoe/ZeroRandomLink)可以做什麼？<br>
-回答 8：主要收集各位自主提供關於[部落格](https://zh.m.wikipedia.org/zh-tw/%E7%B6%B2%E8%AA%8C)的相關資料，並記錄起來防止管理員健忘<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;次要則若已收集的部落格資料有發生變化，也方便管理員處理並更新<br>
+回答 8：收集各位主動提供關於[部落格](https://zh.m.wikipedia.org/zh-tw/%E7%B6%B2%E8%AA%8C)的相關資料，並記錄起來防止管理員健忘<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;若已收集的部落格資料有發生變化，也方便管理員處理並更新<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一個記事本的概念<br>
 ## 零技術傳送門的建設材料
-你以為這個專案是憑空造出來的嗎？才不是勒<br>
+這個專案是憑空造出來的？你認真？<br>
+管理員可不是 9 歲就發明了微積分的人工智能，所以這專案一定會參考甚至借用一大堆東西<br>
 某些網站已被[防火長城](https://zh.wikipedia.org/zh-tw/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E)阻擋，地理位置位於[中華人民共和國](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD)的使用者就隨手開個 VPN 翻牆看吧<br>
 以下是語法設定參考
 | 語言 | 網站圖示 | 標題名稱及連結 |
