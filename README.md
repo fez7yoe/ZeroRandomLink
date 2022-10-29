@@ -1,7 +1,7 @@
 # 零技術傳送門<br>Zero Random Link
 傳送門會隨機的把你送到其中一個世界
 > 簡單說明它的運作方式<br>
-> 假如傳送門裡有 10 個[連結](https://zh.wikipedia.org/zh-tw/%E7%BB%9F%E4%B8%80%E8%B5%84%E6%BA%90%E5%AE%9A%E4%BD%8D%E7%AC%A6)，當你[點擊進行傳送](https://fez7yoe.github.io/ZeroRandomLink/LetsGO.html)後，就會被隨機傳送到其中一個[連結](https://zh.wikipedia.org/zh-tw/%E7%BB%9F%E4%B8%80%E8%B5%84%E6%BA%90%E5%AE%9A%E4%BD%8D%E7%AC%A6)<br>
+> 假如傳送門裡有 10 個[連結](https://zh.wikipedia.org/zh-tw/%E7%BB%9F%E4%B8%80%E8%B5%84%E6%BA%90%E5%AE%9A%E4%BD%8D%E7%AC%A6)，當你[點擊進行傳送](https://zerorandomlink.pages.dev/LetsGO)後，就會被隨機傳送到其中一個[連結](https://zh.wikipedia.org/zh-tw/%E7%BB%9F%E4%B8%80%E8%B5%84%E6%BA%90%E5%AE%9A%E4%BD%8D%E7%AC%A6)<br>
 > 這次可能會傳送到編號 1 的連結、下次可能會傳送到編號 3 的連結、下下次可能會傳送到編號 10 的連結<br>
 > **但也可能會重複把你傳送到同樣的連結**，例如這次傳送到編號 1 的連結、下次也可能會傳送到編號 1 的連結<br>
 > 神奇的機率啊 (´◓Д◔`)<br>
@@ -35,8 +35,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;方便讓你自己跟你的訪客看到、並感興趣的點進來，這一連串的動作就達成了遊戲的迴圈精隨<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;拿[管理員的部落格](https://fez7yoe.github.io)來當範例：導覽列、側邊欄、頁尾、友情連結，或其他的地方擇一放置即可<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;主頁跟傳送頁看個人喜好，想用哪個就用哪個<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;零技術傳送門的主頁連結：https://fez7yoe.github.io/ZeroRandomLink/LetsGO.html<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;零技術傳送門的傳送頁連結：https://fez7yoe.github.io/ZeroRandomLink/RandomLink.html<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;零技術傳送門的主頁：https://zerorandomlink.pages.dev/LetsGO<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;零技術傳送門的隨機傳送頁：https://zerorandomlink.pages.dev/RandomLink.html<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;想利用圖示搭配連結的話，管理員自己的部落格是用[fa-solid fa-rotate](https://fontawesome.com/icons/rotate?s=solid&f=classic)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如果不喜歡管理員使用的圖示，還可以到[Font Awesome](https://fontawesome.com/search?o=r&m=free)找你喜歡的免費圖示<br>
 <br>
