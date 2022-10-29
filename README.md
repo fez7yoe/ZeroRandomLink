@@ -23,8 +23,8 @@
 <br>
 問題 3：**零技術傳送門**有什麼神奇妙用？<br>
 回答 3：若你提供了部落格的資料、傳送門也收集好你的連結，你就會獲得兩種神奇力量<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;部落格的擁有者可以藉由[零技術傳送門](https://fez7yoe.github.io/ZeroRandomLink/LetsGO.html)來導向其他已被收集的部落格<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;部落格的訪客也可以藉由[零技術傳送門](https://fez7yoe.github.io/ZeroRandomLink/LetsGO.html)前往其他部落格參觀<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;部落格的擁有者可以藉由[零技術傳送門](https://zerorandomlink.pages.dev/LetsGO)來導向其他已被收集的部落格<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;部落格的訪客也可以藉由[零技術傳送門](https://zerorandomlink.pages.dev/LetsGO)前往其他部落格參觀<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**隨著收集的數量越多、效果也會越強**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;總之就是玩流量<br>
 <br>
