@@ -87,6 +87,6 @@
 | 簡體中文 | <img src="https://raw.githubusercontent.com/travellings-link/travellings/master/assets/favicon.png" width = "50" height = "50" alt="官方圖示" align="center" valign="center"> | [开往-友链接力](https://github.com/travellings-link/travellings) |
 | 簡體中文 | <img src="https://zhblogs.ohyee.cc/apple-touch-icon.png" width = "50" height = "50" alt="官方圖示" align="center" valign="center"> | [中文博客列表导航](https://zhblogs.ohyee.cc) |
 | 簡體中文 | <img src="https://bucker-for-sae.oss-cn-hangzhou.aliyuncs.com/sitesImages/82486042.jpg" width = "50" height = "50" alt="官方圖示" align="center" valign="center"> | [站点聚合平台](http://sites.link) |
-| 簡體中文 | <img src="https://dujun.tk/favicon.ico" width = "50" height = "50" alt="官方圖示" align="center" valign="center"> | [互访功能页 - 杜郎俊赏](https://dujun.tk/visit) |
+| 簡體中文 | <img src="https://dujun.tk/icon/visit.png" width = "50" height = "50" alt="官方圖示" align="center" valign="center"> | [互访功能页 - 杜郎俊赏](https://dujun.tk/visit) |
 | 簡體中文 | <img src="https://union.zhaodao.ai/icon.black.svg" width = "50" height = "50" alt="官方圖示" align="center" valign="center"> | [Makers Union 创作者联盟 💍](https://github.com/zhaodaoai/Makers-Union) |
 | 英文 | <img src="https://webring.xxiivv.com/icon.black.svg" width = "50" height = "50" alt="官方圖示" align="center" valign="center"> | [Webring](https://github.com/XXIIVV/webring) |
